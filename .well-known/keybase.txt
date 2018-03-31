@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/poggit
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://poggit.github.io
+  * I am poggit (https://keybase.io/poggit) on keybase.
+  * I have a public key with fingerprint E4BE 10A4 4143 4BDB 99EE  332A 0D10 1F2F DF6B 1319
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101917a07595fd0a16e135669395466f53cf35ea7bcb9e912a94ce2b0302306c1100a",
+      "fingerprint": "e4be10a441434bdb99ee332a0d101f2fdf6b1319",
+      "host": "keybase.io",
+      "key_id": "0d101f2fdf6b1319",
+      "kid": "0101917a07595fd0a16e135669395466f53cf35ea7bcb9e912a94ce2b0302306c1100a",
+      "uid": "3c64ef965e6ca895235894b603525f19",
+      "username": "poggit"
+    },
+    "service": {
+      "hostname": "poggit.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1522493050,
+  "expire_in": 157680000,
+  "prev": "099aad17cfb39a92df50f194a7e154917a90ca85740d0528029f33c77eeb1458",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNDAnicrVJrTBRXFN4tYijIo9CikAboNFBAwDuPO8usj0gt1morxYRKqWU7jzu7
+w2N33Z1FAVFsoKSQYnkpGKBtorWAPMsz0dZVaqRiW6igJjzSgIgWakSihGjaGWx/
+NP3bm9zc3HO+7zvnOzn9ni4ad62nT/CGyXS/AO1VZ41Dk/K9mJOLcRYhG9PnYulo
+5UEZArLLhnRJwPQYwAHO4DoW6CADRQGwOI1wEtI0QzKQomkRkrxIQsTqOJ5jEIMT
+LEPxiOAACQgS0DyOA8BiUZgomY3IZrVJZlmRRRSHcMBSFE6RFCdwDIMQSRIsEJR6
+IiEKIs3hJM4oRJPFrjKU5jjWjmIkixJTPoZn7f0X/z/37ViRI3maQiJDQ0TzbCwD
+CRLGMhRHAxISUFyp67Ajm5nNRAraajEaJRnLi8KUWJbEI3Wsqo9/5WOUa3JwzxxZ
+bRbZwlsylKxJlq12vcqWs60q/ADiDH8LGTjJLCiTVBhZyGaXLGZMjytIXpZUZRwS
+BMWQAIIoDB20SjZkkFQE1NGxQDlqHZSljodhWFbAdbzIkQzLEIIIgWKDYnUIh5Q6
+OAYoRqGOAgKARCwgGJEkeZ0OIQ6nYCymWttvtmB6qLTJGhVJu2Q0s7LDhrC8i859
+qzRad81q1+fUDdO4P+/zz95lbvLR1HV4dK6JfuA65H+lzbLx/W2XHvbuOpxTRvk4
+tRmhU15etWbbS9Fo4fZZl8f0n96j918cH6tqX57/vCCpsd6/d+Zkf9yFIdO9VzQa
+2mcwNXHgorbqM2d4znSYsWGtONWRGeBvP36mIhlO2nu8G9/+/Z2glKE+yqupLDJQ
+03701e0Bj1b/fG7TuaVxVDebunffp36xSW6GhtOOy7Kt/AVDZ6CAV1efL1j35dSq
+mugnVz2c0nD/6Fevp/1QlDJdG+B9qrpEE+YVop8liy9X7Pi15YPDcxNPS0yNfoVy
+9yenv1sfsTfQq7Ly1u3eG3cmSjuHf8zbqZ9ti78CvGMij9TH5/5U9PjDnLubuw/u
+CGWL+spbH7q0jn8MKyKJ/OjyxFLX6OSbEd58e2NXS0boWqfrSGFQQUtEyHbREJNu
+Dq7YUnhq5Fu3hcpvjBci5xffnNv2WkPBQu2e+ndvbcR2H305YT/y3LMUnD/uEVYT
+d7Itbux6yeDZrW8gDPi2rpt5L+SPfL/WZbd7HXxTc73npbv8YsMyfij5jmPDeFdc
+cW/q8C7ZpSm8p6Q9qmcyaLqvMLvsycCDmfiu32rn07Z+dMLUVOx75v7o3GDams3X
+HlVpjzTX3czd8kXCxPXdzeHSDV/PQ0ttIQNj8SOB+RmJOxO6m+CJY8cO0L/QzcmL
+00+3HS/l37JHJF077/H1+r8AFaG4tA==
+=A1CB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/poggit
+
+==================================================================
