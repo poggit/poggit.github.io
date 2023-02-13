@@ -1,0 +1,49 @@
+* {
+    font-family: "Gill Sans", sans-serif;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 20px;
+    background-image: url("/img/background.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+h1 {
+    color: white;
+    text-shadow: 2px 2px #525050;
+    font-size: 70px;
+
+}
+hr{
+    width:100%;
+    text-align:left;"
+}
+p {
+    color: white;
+    font-size: 20px;
+    text-shadow: 1px 1px #423e3e;
+}
+.icon-container {
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 70px;
+    margin: 0 20px;
+}
